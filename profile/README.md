@@ -25,3 +25,7 @@ You can find our social media & TrustPilot links below!
 - https://billimg.nullcloud.co.uk
 - https://vps.nullcloud.co.uk
 - https://panel.nullcloud.co.uk
+
+## Contribution and OSF
+To contribute, visit the `legal` repository to find out what you can and can't do licensing wise.
+To apply for our Open Source Foundation, visit the `nosf` repository and follow instructions there

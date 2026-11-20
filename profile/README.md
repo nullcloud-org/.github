@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nullcloud.co.uk"><img src="./nullcloud-meet-1920x1080-rounded.png" alt="NullCloud: meet the company" width="100%"></a>
+  <a href="https://nullcloud.co.uk"><img src="./nullcloud-meet-1920x1080-rounded.png" alt="meet NullCloud banner: the white words 'meet' and 'NullCloud' with the NullCloud logo between them, over a blue-lit, vertically ribbed dark glass background." width="100%"></a>
 </p>
 
 ## One hosting provider. No issues.
